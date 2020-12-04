@@ -1,0 +1,30 @@
+.contenedorprincipal {
+    position: absolute;
+    height: 500px;
+    width: 660px;
+    background: #00cc66;
+    text-align: center;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%,-50%);
+    border-radius: 30px;
+
+}
+.cardbody{
+    background-color: white;
+    height: 90%;
+    padding: 20px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+
+}
+body{
+    background-image: url("https://www.desarrollolibre.net/public/images/example/css/fondo-vivo-css.png");
+    background-size: cover;
+}
+.estilostexto {
+    margin-top: 17%;
+}
+.contra{
+    margin-top: 23%;
+}
